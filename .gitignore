@@ -1,0 +1,10 @@
+##Project-wide:
+.DS_Store
+
+
+##API Keys:
+.env
+
+
+
+*.txt
